@@ -1,3 +1,4 @@
+import java.lang.*;
 import java.util.Scanner;
 
 public class Celsius_to_Fahrenheit {
