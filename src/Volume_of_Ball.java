@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class VolumeofaBall {
+public class Volume_of_Ball {
     public static void main(String[] args) {
         double radius,volume;
         Scanner input = new Scanner(System.in);

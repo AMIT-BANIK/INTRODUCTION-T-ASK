@@ -1,6 +1,6 @@
 import java.lang.*;
 import java.util.Scanner;
-public class AreaOfaTriangle {
+public class Area_Of_Triangle {
     public static void main(String[] args) {
         float base, height, area;
         Scanner input = new Scanner(System.in);
